@@ -1,0 +1,3 @@
+/home/saipulimdn/project/backend/cpp/NetworkSimulation/build/CMakeFiles/network_simulation.dir
+/home/saipulimdn/project/backend/cpp/NetworkSimulation/build/CMakeFiles/edit_cache.dir
+/home/saipulimdn/project/backend/cpp/NetworkSimulation/build/CMakeFiles/rebuild_cache.dir
